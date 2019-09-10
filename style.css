@@ -1,0 +1,29 @@
+div {
+    text-align: center;
+    overflow: hidden;
+    border: 10px solid purple;
+    width: 600px;
+    Height: 850px;
+    color: white;
+    background-image: url("https://suncitywest.com/wp-content/uploads/2019/04/Putting-Green-Background.jpeg");
+    background-size:600px 850px;
+    
+}
+
+img{
+  border: 5px solid purple;  
+}
+h1{
+    font-size: 70px;
+    
+}
+h2{
+    font-size: 40px;
+} 
+h6{
+    font-size: 20px;
+}
+p{
+    font-size: 19px;
+}
+
